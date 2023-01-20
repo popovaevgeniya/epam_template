@@ -5,9 +5,7 @@ You can view the site at the link https://popovaevgeniya.github.io/epam_template
 
 I used HTML, CSS, JavaScript.
 
-The site has 4 pages 
-
-Home page https://popovaevgeniya.github.io/epam_template/start.html
+The site has 3 additional pages:
 
 Catalog page https://popovaevgeniya.github.io/epam_template/catalog.html
 
