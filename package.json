@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://popovaevgeniya.github.io/epam_template",
+  "homepage": "https://popovaevgeniya.github.io/epam_template/start.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
