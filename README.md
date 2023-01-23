@@ -46,3 +46,14 @@ Shopping bag page https://popovaevgeniya.github.io/epam_template/shopping-bag.ht
 - Click on “Back to catalog” link to navigate user to Catalog page.
 - Click on buttons in Size and Color sections highlights it. Only one button per section can be selected.
 - Click on "Add to bag" item to update items count and Total Cost in header. Items count are increased by one, Total Cost is increased by discountedPrice.
+- Photos switcher is Implemented. Click on thumbnail to replace main image with full size image of itself, and make thumbnail active. (Not all images were provided in full size format.)
+
+**Shopping bag**
+- Shopping bag page displays only discounted price values.
+- Hover over item block highlights item title and show overlay with “View Item” text for item image.
+- Click on "Clear bag" link to remove all product items from Shopping bag and replace them with text "Your shopping bag is empty. Use Catalog to add new items".
+- Total Cost from header and items count are displayed as (0).
+- Click on "Buy now" is removed all product items from Shopping bag and replace them with text "Thank you for your purchase".
+- Click on “+” or “-“ button in “Quantity” field to increase/decrease this number by 1.
+- “Total Cost” at the bottom and Total Cost and Quantity in the header are updated accordingly to action and discountedPrice of the element item provided.
+- “Total Cost” at the bottom and Total Cost and Quantity in the header are updated accordingly to Quantity of removed items and their total discountedPrice.
