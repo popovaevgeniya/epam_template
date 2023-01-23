@@ -27,17 +27,22 @@ Shopping bag page https://popovaevgeniya.github.io/epam_template/shopping-bag.ht
 
 ### Functionality
 **Homepage (Start)**
-- Click on “Nike Red” (block under header) navigates user to Item details page.
-- Click on “Caps & Hats” (block under header) navigates user to Catalog page.
+- Click on “Nike Red” (block under header) to navigate user to Item details page.
+- Click on “Caps & Hats” (block under header) to navigate user to Catalog page.
 - When “Nike Red” and “Caps & Hats” blocks are resized – on table and desktop they maintain aspect ratio and take 50% of container width. For mobile - “Caps & Hats” hidden, and “Nike Red” take 100% of container and maintain its aspect ratio.
-- Click on item block inside “Best offer” and “New arrivals” block navigates user to Item details page.
-- Click on “Add to bag” button navigates user to Shopping bag page.
-- Click on “All arrivals” button navigates user to Catalog page.
+- Click on item block inside “Best offer” and “New arrivals” blockto navigate user to Item details page.
+- Click on “Add to bag” button to navigate user to Shopping bag page.
+- Click on “All arrivals” button to navigate user to Catalog page.
 - Search field is collapsed by default on tablet. Click on magnifying glass icon to expand search field to the left. 
 
 **Catalog**
 - Hover over item block highlights item title and show overlay with “View Item” text for item image.
-- Click on item block navigates user to Item details page.
+- Click on item block to navigate user to Item details page.
 - Filters for Catalog page are implemented as dropdown lists on Desktop.
 - Dropdown is opened on hover over filter bar element.
 - Selected filter value are highlighted in dropdown list.
+
+**Item details page**
+- Click on “Back to catalog” link to navigate user to Catalog page.
+- Click on buttons in Size and Color sections highlights it. Only one button per section can be selected.
+- Click on "Add to bag" item to update items count and Total Cost in header. Items count are increased by one, Total Cost is increased by discountedPrice.
