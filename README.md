@@ -14,8 +14,7 @@ Product page https://popovaevgeniya.github.io/epam_template/item.html
 Shopping bag page https://popovaevgeniya.github.io/epam_template/shopping-bag.html
 
 ## About project
-
-### Markup
+**Markup:**
   • For screen width larger than 375px (including) pages are used mobile layout.
   • For screen width larger than 768px (including) page is used tablet layout.
   • For screen width larger than 1024px page is used desktop layout.
