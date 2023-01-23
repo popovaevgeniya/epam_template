@@ -34,6 +34,11 @@ Shopping bag page https://popovaevgeniya.github.io/epam_template/shopping-bag.ht
 - Click on “Add to bag” button to navigate user to Shopping bag page.
 - Click on “All arrivals” button to navigate user to Catalog page.
 - Search field is collapsed by default on tablet. Click on magnifying glass icon to expand search field to the left. 
+- Best offer” functionality:
+  - Click on Up arrow above item to change it to previous item in list.
+  - Click on Down arrow above item to change it to previous item in list.
+  - When item is changed – total price and discounted price are recalculated. 
+  - Total price in header is calculated with respect to discount.
 
 **Catalog**
 - Hover over item block highlights item title and show overlay with “View Item” text for item image.
